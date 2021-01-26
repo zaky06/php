@@ -11,7 +11,6 @@
           <input type="file" name="picture" accept="image/*">
         </div>
         <input name="" type="submit" value="отправить">
-        <a href="picgive.php">посмотреть изображение</a>
       </form>
 
   </body>
